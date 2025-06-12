@@ -1,6 +1,6 @@
+
 # updowncounter
-# updowncounter
-module up_down_counter (
+module hello(
     input clk,//clock pulses
     input reset,//reset setting it back to 0
     input up_down,//like enable
